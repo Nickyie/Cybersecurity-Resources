@@ -1,59 +1,53 @@
 # Cybersecurity-Resources
 A collection of list of Best Cybersecurity Youtube Channels I have came across and found useful so 
 1. The cyber expert (https://www.youtube.com/results?search_query=The+cyber+expert)
-2. Spin the hack ()
-3. Bitten tech ()
-4. Cyber Sec Village
-5. Busra Demir
-6. I.T Security Labs
-7. Elevate Cyber
-8. Forensic Tech
-9. Hak5
-10. The cyber mentor
-11. Null byte
-12. Hackersploit
-13. zSecurity
-14. Masters In Ethical Hacking
-15. MEH2.0
-16. TechChip
-17. Ethical Sharmaji
-18. Technical Navigator
-19. CyberSecurityTV
-20. CYBER EVOLUTION
-21. David Bombal
-22. Loi Liang Yang
-23. Professor Messer
-24. Andy
-25. NetworkChuck
-26. HackTech TriKya
-27. John Hammond
-28. Masters in I.T
-29. Seytonic
-30. Shesh Chauhan IT Trainer
-31. LiveOverflow
-32. Indian Cyber Security Solutions
-33. SecurityFWD
-34. CryptoKnight
-35. Naitik Hacking
-36. Info CK
-37. Latest Hacking News
-38. ISOEH Indian School of Ethical Hacking
-39. Cyber Academy
-40. Hacking Mantra
-41. Cyberspatial
-42. Ethical Hacking School
-43. Pratik Dabhi
-44. EC Council
-45. Pentest-Tools Com
-46. Armour Infosec
-47. Grant Collins
-48. Black Hat
-49. Black Hat Ethical Hacking
-50. Infinite Logins
-51. The-IT-ans
-52. Hacking Simplified
-53. SUDOBYTE
-54. ehacking
-55. Nahamsec
-56. Mr Turvey
-57. dastechsecurity
+2. Spin the hack (https://www.youtube.com/c/SpinTheHack/videos)
+3. Cyber Sec Village (https://www.youtube.com/c/CyberSecVillage)
+4. I.T Security Labs (https://www.youtube.com/c/ITSecurityLabs)
+5. Elevate Cyber (https://www.youtube.com/channel/UCcHAyzVBPtV6i_rhqBPoA6w)
+6. Forensic Tech (https://www.youtube.com/c/ForensicTech)
+7. Hak5 (https://www.youtube.com/c/hak5)
+8. The cyber mentor (https://www.youtube.com/c/TheCyberMentor)
+9. Null byte (https://www.youtube.com/c/NullByteWHT)
+10. Hackersploit (https://www.youtube.com/c/HackerSploit)
+11. STOK (https://www.youtube.com/c/STOKfredrik)
+12. IppSec (https://www.youtube.com/c/ippsec)
+13. ScriptKiddieHub - Tadi (https://www.youtube.com/c/ScriptKiddieHub)
+14. zSecurity (https://www.youtube.com/c/zSecurity)
+15. Jon Good (https://www.youtube.com/c/JonGoodCyber)
+16. Cybersecurity Web (https://www.youtube.com/c/CybersecurityWeb/videos)
+17. I.T. Career Questions (https://www.youtube.com/c/ITCareerQuestions)
+18. TechChip (https://www.youtube.com/c/TechChipNet)
+19. Technical Navigator (https://www.youtube.com/c/TechnicalNavigator)
+20. CyberSecurityTV (https://www.youtube.com/c/CyberSecurityTV)
+21. CYBER EVOLUTION (https://www.youtube.com/c/indianblackhats)
+22. David Bombal (https://www.youtube.com/c/DavidBombal)
+23. Nahamsec (https://www.youtube.com/c/Nahamsec)
+24. InsiderPHD (https://www.youtube.com/c/InsiderPhD)
+25. Loi Liang Yang (https://www.youtube.com/c/LoiLiangYang)
+26. Professor Messer (https://www.youtube.com/c/professormesser)
+27. NetworkChuck (https://www.youtube.com/c/NetworkChuck)
+28. John Hammond (https://www.youtube.com/c/JohnHammond010)
+29. DarkSec (https://www.youtube.com/c/DarkSec)
+30. CrytoCar (https://www.youtube.com/c/CryptoCat23/videos)
+31. Seytonic (https://www.youtube.com/c/Seytonic)
+32. LiveOverflow (https://www.youtube.com/c/LiveOverflow)
+33. SecurityFWD (https://www.youtube.com/c/SecurityFWD)
+34. CryptoKnight (https://www.youtube.com/c/TheHeraneVlogs5)
+35. FindingUrPasswd (https://www.youtube.com/c/FindingUrPasswd/videos)
+36. Bitten tech (https://www.youtube.com/c/BittenTech)
+37. Busra Demir (https://www.youtube.com/channel/UCksdNO8hAiOQoWZhEXhyyZA)
+38. Cyber Academy (https://www.youtube.com/c/CyberAcademyHindi)
+39. Cyberspatial (https://www.youtube.com/c/Cyberspatial)
+40. Ethical Hacking School (https://www.youtube.com/c/SheshTheCyberSecurity)
+41. Pratik Dabhi (https://www.youtube.com/c/impratikdabhi)
+42. EC Council (https://www.youtube.com/user/eccouncilusa)
+43. Pentest-Tools Com (https://www.youtube.com/c/PentestToolscom)
+44. The Hackers World (https://www.youtube.com/c/TheHackersWorld)
+45. Grant Collins (https://www.youtube.com/channel/UCTLUi3oc1-a7dS-2-YgEKmA)
+46. Black Hat (https://www.youtube.com/c/BlackHatOfficialYT)
+47. Infinite Logins (https://www.youtube.com/c/InfiniteLogins)
+48. Hacking Simplified (https://www.youtube.com/c/HackingSimplifiedAS)
+49. ehacking (https://www.youtube.com/c/EhackingNet)
+50. MrTurvey (https://www.youtube.com/c/MrTurvey)
+51. Info CK (https://www.youtube.com/c/InfoCk)
