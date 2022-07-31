@@ -1,5 +1,5 @@
 # Cybersecurity-Resources
-A collection of list of Best Cybersecurity Youtube Channels I have came across and found useful so 
+A collection of list of Best Cybersecurity Youtube Channels I have came across and found useful so far
 1. The cyber expert (https://www.youtube.com/results?search_query=The+cyber+expert)
 2. Spin the hack (https://www.youtube.com/c/SpinTheHack/videos)
 3. Cyber Sec Village (https://www.youtube.com/c/CyberSecVillage)
