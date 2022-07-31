@@ -73,4 +73,5 @@ A collection of list of Best Cybersecurity Youtube Channels I have came across a
 71. Hacking Simplified (https://www.youtube.com/c/HackingSimplifiedAS)
 72. Calle Svensson (https://www.youtube.com/c/ZetaTwo/videos)
 73. ehacking (https://www.youtube.com/c/EhackingNet)
-74. Info CK (https://www.youtube.com/c/InfoCk)
+74. Masters in I.T. (https://www.youtube.com/c/MastersinIT/videos)
+75. Info CK (https://www.youtube.com/c/InfoCk)
