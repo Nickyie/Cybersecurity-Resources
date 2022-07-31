@@ -81,3 +81,5 @@ A collection of list of Best Cybersecurity Youtube Channels I have came across a
 79. [PhD Security](https://www.youtube.com/channel/UCAndnmvdiphDqLLDrGnBuhA)
 80. [Cyber Insecurity](https://www.youtube.com/c/CyberInsecurity)
 81. [Troy Hunt](https://www.youtube.com/c/troyhuntdotcom)
+82. [Cyber Insecurity](https://www.youtube.com/c/CyberInsecurity)
+83. [Tech69](https://www.youtube.com/c/Tech69YT)
