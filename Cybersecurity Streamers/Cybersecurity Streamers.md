@@ -1,4 +1,4 @@
-# Cybersecurity-Youtube Channels
+# Cybersecurity-Streamers
 Collection of Cyber Security streamers that have been active in the last 30 days.
 1. [overgrowncarrot1](https://www.twitch.tv/overgrowncarrot1)
 2. [S4vitaar](https://www.twitch.tv/S4vitaar)
