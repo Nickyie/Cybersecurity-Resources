@@ -1,5 +1,5 @@
 # Cybersecurity-Streamers
-Collection of Cyber Security streamers that have been active in the last 30 days.
+A collection of Cybersecurity streamers
 1. [overgrowncarrot1](https://www.twitch.tv/overgrowncarrot1)
 2. [S4vitaar](https://www.twitch.tv/S4vitaar)
 3. [topklean](https://www.twitch.tv/topklean)	
