@@ -85,4 +85,8 @@ A collection of list of Best Cybersecurity Youtube Channels I have came across a
 83. [Tech69](https://www.youtube.com/c/Tech69YT)
 84. [Cloud Security Podcast](https://www.youtube.com/c/CloudSecurityPodcast)
 85. [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering)
-
+86. [Linux Hint](https://www.youtube.com/c/linuxhint)
+87. [PortSwigger](https://www.youtube.com/c/PortSwiggerTV)
+88. [Chris Greer](https://www.youtube.com/c/ChrisGreer)
+89. [PowerCert Animated Videos](https://www.youtube.com/c/PowerCertAnimatedVideos)
+90. [TheSecurityTube](https://www.youtube.com/user/TheSecurityTube)
