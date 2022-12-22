@@ -14,7 +14,7 @@ Some Great Cybersecurity & Hacking Documentaries Recommendations!
 11. [Guardians Of The New World (Hacking Documentary) | Real Stories](https://lnkd.in/dUPybtFd)
 12. [A Origem dos Hackers](https://lnkd.in/dUJgG-6J)
 13. [The Great Hack](https://lnkd.in/dp-MsrQJ)
-14. [The Networks Dilemma](https://lnkd.in/dB6rC2RD)
+14. [The Social Dilemma](https://lnkd.in/dB6rC2RD)
 15. [Web Warriors](https://lnkd.in/dip22djp) 
 16. [Cyber War - Dot of Documentary](https://lnkd.in/dhNTBbbx)
 17. [CyberWar Threat - Inside Worlds Deadliest Cyberattack](https://lnkd.in/drmzKJDu)
@@ -33,3 +33,7 @@ Some Great Cybersecurity & Hacking Documentaries Recommendations!
 30. [THE INSIDE LIFE OF A HACKER](https://www.youtube.com/watch?v=CuESlhKLhCY)
 31. [High Tech Hackers Documentary](https://www.youtube.com/watch?v=l2fB_O5Q6ck)
 32. [Drones, hackers and mercenaries - The future of war](https://www.youtube.com/watch?v=MZ60UDys_ZE)
+33. [The Secret History Of Hacking](https://youtu.be/Gweindvyeu8)
+34. [We Steal Secrets- The Story of WikiLeaks](https://www.imdb.com/title/tt1824254/)
+35. [Inside The Dark Web](https://topdocumentaryfilms.com/inside-dark-web/)
+
