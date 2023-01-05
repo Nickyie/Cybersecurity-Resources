@@ -85,4 +85,5 @@ A collection of list of Best Cybersecurity Youtube Channels I have came across a
 83. [Tech69](https://www.youtube.com/c/Tech69YT)
 84. [Cloud Security Podcast](https://www.youtube.com/c/CloudSecurityPodcast)
 85. [Hussein Nasser](https://www.youtube.com/c/HusseinNasser-software-engineering)
+86. [MDISec](https://www.youtube.com/@mdisec)
 
